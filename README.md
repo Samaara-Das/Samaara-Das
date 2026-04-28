@@ -1,7 +1,7 @@
 <h1>Samaara Das</h1>
 
 <p>
-  <strong>AI-native engineer.</strong> Frontend lead. I build production AI systems with orchestrated agent teams &mdash; AI plans, codes, tests, deploys and documents. One engineer directs.
+  <strong>AI-native engineer.</strong> Ex frontend supporting team leader. I build production AI systems, automations at scale and app with orchestrated AI agents &mdash; AI plans, codes, tests, deploys and documents - All autonomously.
 </p>
 
 <p>
