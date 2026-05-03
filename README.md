@@ -8,11 +8,15 @@
   <em>5 years building software, including 1+ year of full-time engineering on a UK bank's corporate-banking platform that processed ~&#8358;1B in transactions within weeks of launch.</em>
 </p>
 
+<p>
+  📄 <strong><a href="https://samaara-das.github.io/cv/">Read my CV</a></strong> &nbsp;·&nbsp; <a href="https://samaara-das.github.io/cv/Samaara_Das_CV.pdf">PDF</a>
+</p>
+
 ---
 
 ### What I'm building right now
 
-- 🛒 **[Amplifier](https://api.pointcapitalis.com)** &mdash; two-sided creator-economy marketplace. Companies pay everyday people to post product content; AI handles the writing, posting and payouts. *FastAPI · Supabase · Playwright · multi-AI-agent pipeline*
+- 🛒 **[Amplifier](https://api.pointcapitalis.com/docs)** &mdash; two-sided creator-economy marketplace. Companies pay everyday people to post product content; AI handles the writing, posting and payouts. *FastAPI · Supabase · Playwright · multi-AI-agent pipeline*
 - 📈 **[Money Hungry Games](https://money-hungry-games.netlify.app)** &mdash; trading-signal platform with streaming AI analysis and social play. ~92,850 LOC, ~1,054 symbols monitored live, 352 persistent algorithmic alerts. *Next.js 15 · MongoDB Vector Search · streaming RAG*
 - 🛍️ **[Kuwait Marketplace](https://kuwait-marketplace.netlify.app/kw)** &mdash; multi-vendor e-commerce platform, full bilingual EN/AR with RTL. 587 files, ~58,640 insertions, in two days. 100% AI-written. *Medusa v2 · Next.js 15 · Task Master AI*
 - 🤖 **[ATAS](https://github.com/Samaara-Das/AI-Trading-System)** &mdash; multi-agent algorithmic trading platform on a Model Context Protocol architecture. Six MCP servers, three LLM AI agents, MQL5 + Python. ~37,500 LOC.
@@ -56,4 +60,4 @@ I run **AI agent teams** &mdash; a main orchestrator AI agent coordinates a rost
 
 📍 Bangalore, India &middot; Remote
 
-<sub><em>For the deep version &mdash; metrics, proof, role history &mdash; ask for the CV.</em></sub>
+<sub><em>For the deep version &mdash; metrics, proof, role history &mdash; <a href="https://samaara-das.github.io/cv/">read the CV</a>.</em></sub>
